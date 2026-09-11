@@ -1,0 +1,18 @@
+h2{
+    color: blue;
+}
+.P{
+    font-weight: 700;
+}
+.I{
+    font-style: italic;
+}
+.Y{
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: #f1f1f1;
+}
